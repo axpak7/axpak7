@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Alex, a kotlin software engineer based in South Korea.
+
 <!--
 **axpak7/axpak7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
